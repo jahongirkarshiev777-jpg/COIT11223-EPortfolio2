@@ -12,20 +12,14 @@ Student Number: 12332957
 
 ![Artefact 1](1.jpg)
 
-Source:
-
-Paste YouTube URL here
+Source: https://youtu.be/QAegvKeHn9U?si=pAkADi75c6taDUfT
 
 ## Summary of the artefact
-
-This artefact explains the basic principles of Kantian Ethics developed by the philosopher Immanuel Kant. It introduces the idea that people should make decisions based on moral duty rather than personal benefit or the consequences of their actions. The video also explains that every person should be treated with dignity and respect, regardless of the situation. It helped me understand the difference between acting because something is morally right and acting because it produces a good outcome.
+This video explains the basic ideas of Kantian Ethics and the philosophy of Immanuel Kant. It focuses on the idea that people should make ethical decisions based on their moral duties and principles, rather than only thinking about the consequences. It also explains the importance of treating people with respect and not using them simply as a means to achieve a personal goal. I found this useful because it gave me a simple introduction to Kantian Ethics.
 
 ## Justification on why I chose the artefact
-
-I chose this video because it was easy to understand and introduced the main concepts of Kantian Ethics using simple language. Before studying this topic, I had not heard much about Kant's ethical theory. The explanations and examples helped me understand how moral duty can influence decision-making in everyday life and in the ICT profession. This artefact provided a strong foundation before exploring more complex ethical issues discussed in the workshop.
-
----
-
+When I first heard about Kantian Ethics, there were elements of the ideas which confused me – particularly the idea of moral duty. So, I thought it would be helpful if I could find an easy explanation of the theories behind Kantian ethics.
+I decided on using this video as the content gave me an accessible insight into what was really happening behind the scenes of this approach to ethics. As someone who has had to make many choices during the course of their career, it’s interesting to see how these can be framed through different theories and the way the author explained ethical decision-making in terms of situations we face every day helps us to recognise our responsibilities in relation to other people. In particular, it encouraged me to consider issues such as my own responsibility towards people when working within Information & Communication Technology (ICT).
 # Artefact 2: News Article
 
 ![Insert image here]
