@@ -2,15 +2,15 @@
 
 # e-Portfolio 2 – Ethical Theory (Kantian Ethics)
 
-Student Name: Your Name
+Student Name: Jahongir Karshiev
 
-Student Number: Your Student Number
+Student Number: 12332957
 
 ---
 
 # Artefact 1: Introduction to Kantian Ethics
 
-![Insert image here]
+![Artefact 1](image_1.jpg)
 
 Source:
 
