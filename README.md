@@ -10,7 +10,7 @@ Student Number: 12332957
 
 # Artefact 1: Introduction to Kantian Ethics
 
-![Artefact 1](image_1.jpg)
+![Artefact 1](1.jpg)
 
 Source:
 
