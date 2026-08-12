@@ -22,7 +22,7 @@ When I first heard about Kantian Ethics, there were elements of the ideas which 
 I decided on using this video as the content gave me an accessible insight into what was really happening behind the scenes of this approach to ethics. As someone who has had to make many choices during the course of their career, it’s interesting to see how these can be framed through different theories and the way the author explained ethical decision-making in terms of situations we face every day helps us to recognise our responsibilities in relation to other people. In particular, it encouraged me to consider issues such as my own responsibility towards people when working within Information & Communication Technology (ICT).
 # Artefact 2: News Article
 
-![Insert image here]
+![Artefact 2](2.jpg)
 
 Source:
 
