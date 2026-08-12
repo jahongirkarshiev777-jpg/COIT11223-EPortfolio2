@@ -55,7 +55,7 @@ I felt that through using an article that discussed the intersectionality of AI 
 
 
 # Artefact 4: Workshop Personal Reflection
-
+![Artefact 4](4.jpg)
 
 Insert a screenshot of the lecture slide if appropriate.
 
