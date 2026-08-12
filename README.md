@@ -25,16 +25,15 @@ I decided on using this video as the content gave me an accessible insight into 
 ![Artefact 2](2.jpg)
 
 Source:
-
-Paste article URL here
+https://news.ku.edu/news/article/ai-can-imitate-morality-without-actually-possessing-it-new-philosophy-study-finds
 
 ## Summary of the artefact
-
-Provide a short summary of your chosen news article.
+This article discusses whether artificial intelligence can really be considered moral or whether it can only imitate human moral behaviour. The article explains research based on Kantian ethics and suggests that AI systems can follow patterns that look like moral reasoning, even though they are not moral agents themselves. It also explains how Kantian ideas about duty, principles and ethical behaviour could be used when developing AI systems. I found this interesting because it connects an ethical theory from philosophy with a modern ICT issue.
 
 ## Justification on why I chose the artefact
+For this reason, I decided on this topic as I am always fascinated with different types of ethical theories and how they relate to what we see around us. In particular, how can we connect Kantian Ethics to something such as Technology and A.I.? This really made me sit back and consider my own actions as well as those performed by other individuals around me.
 
-Explain why the article relates to Kantian Ethics and what you learned from it.
+Furthermore, it prompted me to consider if these principles are applicable to Artificial Intelligence Systems – i.e., can artificial intelligence become moral without understanding it? Given that all of us (as students) will be studying some form of ICT and ultimately working within this field, it is essential for current and future professionals to understand how technologies can affect people.
 
 ---
 
