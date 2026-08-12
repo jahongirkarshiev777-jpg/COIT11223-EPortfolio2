@@ -41,25 +41,21 @@ Furthermore, it prompted me to consider if these principles are applicable to Ar
 
 ![Artefact 3](3.jpg)
 
-Source / DOI
+Source
 
-Paste DOI or article link here
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1710410/full
 
 ## Summary of the artefact
-
-Summarise the main arguments of the scholarly article and explain how they relate to Kantian Ethics.
-
-Remember to include in-text citations with page numbers where appropriate.
+This research article compares how artificial intelligence and humans respond to different moral situations. The researchers examined responses from ChatGPT and Claude to 12 moral scenarios and compared them with previous human responses. The study found that the AI systems did not always follow one type of ethical reasoning. Instead, their decisions changed depending on the situation, sometimes showing deontological reasoning and sometimes utilitarian reasoning. I found this interesting because it shows that AI can produce different ethical answers depending on the situation, rather than simply following one fixed moral rule.
 
 ## Justification on why I chose the artefact
+The reason why i have picked out this particular article is because of its direct relevance to my subject matter – the relationship between Kantian Ethics and Artificial Intelligence.
+As someone who frequently uses artificial intelligence (AI) tools, what particularly piqued my interest was the article’s focus on the differences between AI and human moral decisions. 
+I felt that through using an article that discussed the intersectionality of AI ethics and traditional ethical theories such as Kantianism, I would become more aware of how much these two things are different. I found myself realising that even though an AI might generate an answer that appears to make sense, the actual level of understanding may differ greatly from our own.
 
-Explain why this scholarly article improved your understanding of ethical decision-making in ICT. Discuss any interesting examples, ethical concerns, or professional responsibilities mentioned in the article and how they relate to the workshop content.
-
----
 
 # Artefact 4: Workshop Personal Reflection
 
-Insert your workshop selfie.
 
 Insert a screenshot of the lecture slide if appropriate.
 
