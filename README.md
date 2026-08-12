@@ -67,8 +67,6 @@ I used AI during the planning stage of this assessment to help organise ideas, i
 ---
 
 # References (CQU Harvard Style)
-# References
-
 Barabadi, E., Fotuhabadi, Z., Arghavan, A. and Booth, J.R. (2026) ‘Comparing AI and human moral reasoning: context-sensitive patterns beyond utilitarian bias’, *Frontiers in Artificial Intelligence*, 8, 1710410. doi:10.3389/frai.2025.1710410.
 
 Helpful Professor Explains! (2025) ‘What is Kantian Ethics? (Easy Explanation)’, YouTube video. Available at: https://youtu.be/QAegvKeHn9U (Accessed: 12 August 2026).
