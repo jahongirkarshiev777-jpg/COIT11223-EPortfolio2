@@ -39,7 +39,7 @@ Furthermore, it prompted me to consider if these principles are applicable to Ar
 
 # Artefact 3: Scholarly Article
 
-![Insert screenshot of first page]
+![Artefact 3](3.jpg)
 
 Source / DOI
 
