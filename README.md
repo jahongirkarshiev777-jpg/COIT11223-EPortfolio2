@@ -56,18 +56,9 @@ I felt that through using an article that discussed the intersectionality of AI 
 
 # Artefact 4: Workshop Personal Reflection
 ![Artefact 4](4.jpg)
-
-Insert a screenshot of the lecture slide if appropriate.
-
-## Summary of the artefact: My Personal Reflection
-
-Write about what you learned during this week's workshop. Describe the activities completed in class, the discussions that took place, and the ethical concepts you found most interesting. Explain how your understanding of Kantian Ethics has improved and how it may influence your future career as an ICT professional.
-
-## Justification on why I chose the artefact
-
-Explain why your workshop participation is meaningful evidence of your learning. Reflect on the discussions with your tutor and classmates, any questions that challenged your thinking, and how the workshop helped you understand ethical decision-making in ICT.
-
----
+Previously I believed making an ethical choice meant looking at which option gave the best results but once I studied Kant’s ideas, this has completely shifted the way I now think about ethics.  In particular, I found the concept of duty, honesty and respecting others very relevant to considering my potential future career within the ICT industry.
+For example, suppose I develop a system that collects user’s personal information – I can’t just focus on whether or not the system works perfectly because this fails to address questions such as: have we been respectful when dealing with users’ information? Are their rights protected?
+A lot of what makes this topic interesting and meaningful to me is reflecting upon how dependent we all are on various technologies to get through each day and often times, don't know what happens to our personal information or even understand the processes behind some of these decisions. Given that, the prospect of having an opportunity to create technologies that impact people’s lives directly makes me reflect further on the importance of becoming a great ICT professional not just for myself but also in terms of ensuring those who benefit from the technologies created by me, are treated respectfully and appropriately.
 
 # AI Planning Statement
 
@@ -76,11 +67,12 @@ I used AI during the planning stage of this assessment to help organise ideas, i
 ---
 
 # References (CQU Harvard Style)
+# References
 
-Reference 1
+Barabadi, E., Fotuhabadi, Z., Arghavan, A. and Booth, J.R. (2026) ‘Comparing AI and human moral reasoning: context-sensitive patterns beyond utilitarian bias’, *Frontiers in Artificial Intelligence*, 8, 1710410. doi:10.3389/frai.2025.1710410.
 
-Reference 2
+Helpful Professor Explains! (2025) ‘What is Kantian Ethics? (Easy Explanation)’, YouTube video. Available at: https://youtu.be/QAegvKeHn9U (Accessed: 12 August 2026).
 
-Reference 3
+Niccum, J. (2025) ‘AI can imitate morality without actually possessing it, new philosophy study finds’, *KU News*, 22 August. Available at: https://news.ku.edu/news/article/ai-can-imitate-morality-without-actually-possessing-it-new-philosophy-study-finds (Accessed: 12 August 2026).
 
 Reference 4
